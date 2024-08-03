@@ -14,7 +14,5 @@ Some description !
 
 Watch tutorial on Youtube.
 
-<!---
-emilie-vl/emilie-vl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Local development
+1. Open index.html in your browser
